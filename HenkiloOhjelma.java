@@ -1,4 +1,3 @@
-package kotitehtäviä;
 import java.util.Scanner;
 
 public class HenkiloOhjelma {
