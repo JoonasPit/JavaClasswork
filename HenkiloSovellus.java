@@ -19,9 +19,24 @@ public class HenkiloSovellus {
 			
 		}
 		
-		// kesken
+		// kesken!!!!!
 		
-
+		// looppi ohjaa aina oikeaan ohjelmaan. 
+		// if 1 
+		// inputit to set.nimi
+		// inputit to set.osoite
+		
+		// if 2 
+		
+		// muokkaus from arrayspot
+		// set arrayvar
+		// change input at array[arrayvar]
+		
+		// muunna nimi & osoite Arrayksi @ Henkilo.java
+		
+		// toString for loop tulostus ??
+		
+		//printtaa tostring
 	}
 
 }
